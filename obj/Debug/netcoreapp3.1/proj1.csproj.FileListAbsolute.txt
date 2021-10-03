@@ -1,0 +1,13 @@
+/Users/maha/Projects/proj1/proj1/bin/Debug/netcoreapp3.1/proj1.deps.json
+/Users/maha/Projects/proj1/proj1/bin/Debug/netcoreapp3.1/proj1.runtimeconfig.json
+/Users/maha/Projects/proj1/proj1/bin/Debug/netcoreapp3.1/proj1.runtimeconfig.dev.json
+/Users/maha/Projects/proj1/proj1/bin/Debug/netcoreapp3.1/proj1.dll
+/Users/maha/Projects/proj1/proj1/bin/Debug/netcoreapp3.1/proj1.pdb
+/Users/maha/Projects/proj1/proj1/obj/Debug/netcoreapp3.1/proj1.csproj.AssemblyReference.cache
+/Users/maha/Projects/proj1/proj1/obj/Debug/netcoreapp3.1/proj1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maha/Projects/proj1/proj1/obj/Debug/netcoreapp3.1/proj1.AssemblyInfoInputs.cache
+/Users/maha/Projects/proj1/proj1/obj/Debug/netcoreapp3.1/proj1.AssemblyInfo.cs
+/Users/maha/Projects/proj1/proj1/obj/Debug/netcoreapp3.1/proj1.csproj.CoreCompileInputs.cache
+/Users/maha/Projects/proj1/proj1/obj/Debug/netcoreapp3.1/proj1.dll
+/Users/maha/Projects/proj1/proj1/obj/Debug/netcoreapp3.1/proj1.pdb
+/Users/maha/Projects/proj1/proj1/obj/Debug/netcoreapp3.1/proj1.genruntimeconfig.cache
